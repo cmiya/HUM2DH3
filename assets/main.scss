@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.wrapper {
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.page-content {
+    padding: 0px;
+}
+
+post-content {
+    padding: 30px;
+}
+
+body {
+    // color: blue;
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 200;
+}
+
+h1 { font-size: 2em !important;}
+h2 {
+    font-size: 1.5em !important;
+    font-weight: 200;
+}
+
+h3 {
+    font-size: 1.25em !important;
+    font-weight: 300;
+}
+
+.poster {
+    height: 75%;
+}
