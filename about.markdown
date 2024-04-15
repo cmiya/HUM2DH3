@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About
 subtitle: Creative, Collaborative, Critical Approaches to Digital Scholarship
 permalink: /about/

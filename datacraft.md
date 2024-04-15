@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: exhibit
 title: Data Craft
 permalink: /datacraft/
 ---
-
-<img class="poster" title="Data Craft Banner" alt="Data Craft Banner" src="/HUM2DH3/assets/img/datacraft-banner.jpeg">
 
 # Data Craft: HUM2DH3 Student Design Showcase 
 ### April 12 - May 12 <br> Sherman Centre Lobby, Mills Library
