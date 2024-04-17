@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: soundscape
 title: Soundscapes
 permalink: /soundscapes/
 ---
-
-<iframe src="https://storymaps.arcgis.com/stories/4f3ae5562f014ecd92bc96297010150e" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
